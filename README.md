@@ -1,2 +1,2 @@
-# hithub-docs-example
+# github-docs-example
 markdown editor for Terraform Bootcamp
